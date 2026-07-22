@@ -1,30 +1,50 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prashantatgithub761/prashantatgithub761/main/assets/banner.png" alt="Prashant Kumar — Developer workspace banner" width="100%" />
+</div>
+
 # Hi, I'm Prashant Kumar 👋
 
-**Backend Developer | Java • Spring Boot **
+### Java & Spring Boot Developer | Building practical full-stack applications
 
-I build practical web applications and enjoy solving data-structures and algorithms problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prashantkumarsr/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/svIgB78slc/)
+[![Portfolio](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/prashantatgithub761?tab=repositories)
 
-## About me
+## 👨‍💻 About Me
 
-- 🔭 Building real-world projects with Java, Spring Boot, React, and SQL
-- 🌱 Strengthening my full-stack development and problem-solving skills
-- 💡 Interested in backend development, REST APIs, and scalable applications
-- 🤝 Open to collaborating on meaningful open-source and full-stack projects
+I’m an aspiring full-stack developer from India, focused on building clean, useful applications with Java, Spring Boot, React, and SQL.
 
-## Featured projects
+- 🔭 Building real-world Java and full-stack projects
+- 🌱 Learning backend development, REST APIs, and database design
+- 🧩 Practicing Data Structures and Algorithms
+- 🤝 Open to collaborating on meaningful projects
 
-- **UPI Payment System** — Java-based payment workflow project  
-- **Train Management System** — Application for managing train operations  
-- **Hotel Management System** — System for hotel booking and administration  
+## 🛠 Tech Stack
 
-## Connect with me
+### Languages
 
-- LinkedIn: [Prashant Kumar](https://www.linkedin.com/in/prashantkumarsr/)
-- LeetCode: [svIgB78slc](https://leetcode.com/u/svIgB78slc/)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Thanks for visiting my profile!
+### Frameworks & Tools
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📌 Featured Project
+
+### [UPI Payment System](https://github.com/prashantatgithub761/UPI_Payment_system)
+
+A Java-based application that models a digital payment workflow.
+
+**Highlights:** Java · OOP · Transaction handling · Input validation
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/prashantkumarsr/) · [LeetCode](https://leetcode.com/u/svIgB78slc/) · [All repositories](https://github.com/prashantatgithub761?tab=repositories)
 
 
 
