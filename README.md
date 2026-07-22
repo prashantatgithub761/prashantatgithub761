@@ -1,6 +1,6 @@
 # Hi, I'm Prashant Kumar 👋
 
-**Full-Stack Developer | Java • Spring Boot • React**
+**Backend Developer | Java • Spring Boot **
 
 I build practical web applications and enjoy solving data-structures and algorithms problems.
 
