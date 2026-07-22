@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/prashantatgithub761/prashantatgithub761/main/assets/banner.png" alt="Prashant Kumar — Developer workspace banner" width="100%" />
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/b10a82ee-e9d7-4417-a85d-9eb2fb757dac" /><div align="center">
+
+ 
 </div>
 
 # Hi, I'm Prashant Kumar 👋
